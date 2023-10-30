@@ -6,7 +6,7 @@
 * [HOW-TO](#HOW-TO)
 * [Problem Motivation](#Problem-Motivation)
 * [Problem Description](#Problem-Description)
-* [Contributors]
+* [Contributors](#Contributors)
 
 ----
 ## HOW-TO
@@ -57,10 +57,16 @@ The output of the algorithm is a list of routes between _A_ and _B_ and their co
 ## Contributors
 
 Aude Maier
+
 Antoine Maier
+
 Lars Quaedvlieg
+
 Somesh Mehra
+
 Arvind Menon
+
 Zoé Jeandupeux
+
 
 This project was carried out as part of the EPFL course "Large scale data science for real world data".
